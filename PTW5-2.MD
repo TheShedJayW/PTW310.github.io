@@ -27,6 +27,7 @@
  <h4> How might you use this activity (creating the webpages or markdown pages) going forward? Do you have some project in mind? </h4>
   <ul> 
     <li> Going forward, I don't think I will use the markdown to code an entire site. I think I will continue use to modifiy webpages. In prior roles I have had to update the HTML code to get the formating a bit more perfect and that is where I see myself using this capability. </li> 
+    <li> For my final deliverable, I plan to use when building my Wordpress page. It would be a great learning for me to try updating Wordpress with HTML editing vs. using the out of the box. </li> 
   
 </body>
   
