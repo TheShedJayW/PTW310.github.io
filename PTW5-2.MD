@@ -12,8 +12,8 @@
 </h4>
 
 <ul> 
-  <li> Yes, using the W3school's HTML tutorial was helpful for several reasons. 1.) It helped me understand what is the appropiate sytax for HTML markup. In previous roles, I've known how to do the basics like bold and headers. This is the first time I have ever created an unumbered list! Small wins :) 2.) I never fully understood what the purpose or value was of making different headers (why not just bold or change the font size?) and I learned that search engines use to index and structure pages. 3.) The 'try it yourself' makes it easy to test the code and have real world experience.  </li>
-  <li> 
+  <li> Yes, using the W3school's HTML tutorial was helpful for several reasons. 1.) It helped me understand what is the appropriate syntax for HTML markup. In previous roles, I've known how to do the basics like bold and headers. This is the first time I have ever created an unnumbered list! Small wins :) 2.) I never fully understood what the purpose or value was of making different headers (why not just bold or change the font size?) and I learned that search engines use to index and structure pages. 3.) The 'try it yourself' makes it easy to test the code and have real world experience.  </li>
+  <li> Creating this GitHub page, I still feel like I am in the very beginning stages of what is possible. It's, honestly, hard for me to type in the coding window of GitHub and vizualize how it will turn out. There seems to be a lot of flipping back and forth. I didn't want to cheat/take a shortcut and write in an HTML editior and then copy into GitHub. It would be nice if you could be typing and see how it would be styled next to the window vs. having to take breaks to save and then view. </li> 
   
  </ul> 
   
