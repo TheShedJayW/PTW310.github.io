@@ -6,7 +6,7 @@
 <body>
 
   
-<h1 style="color:MediumSeaGree;"> PTW 5.2 Homework</h1>
+<h1 style="color:MediumSeaGreen;"> PTW 5.2 Homework</h1>
 
 <h4>If you created your own Read Me or HTML page on GitHub, was GitHub's Markdown Cheat Sheet or W3schools' HTML tutorial a useful aid? Describe your experience using the guide to help you create your page(s).
 </h4>
@@ -19,7 +19,7 @@
  <br> 
 <h4>If this was your first markdown or HTML experience (then, congratulations!), what challenges did you encounter? What successes did you have? What questions do you have for the future (or what would you still like to learn)? </h4>  
  <ul> 
-   <li> Challenges include getting more complicated with the HTML markup. I tried to make my H1 powerblue and I can't figure out why it's not turning blue. The GitHub editor doens't do a great job of formating so you can see the tags. In previous roles I have used Notepad++ which does a fantastic job with organzing the syntax and color coding so you can see where you're at.   </li> 
+   <li> Challenges include getting more complicated with the HTML markup. I tried to make my H1 MediumSeaGreen and I can't figure out why it's not turning green. The GitHub editor doens't do a great job of formating so you can see the tags. In previous roles I have used Notepad++ which does a fantastic job with organzing the syntax and color coding so you can see where you're at.   </li> 
   </ul> 
   
 </body>
