@@ -11,7 +11,7 @@
 </h4>
 
 <ul> 
-  <li> This is a first </li>
+  <li> Yes, using the W3school's HTML tutorial was helpful for several reasons. 1.) It helped me understand what is the appropiate sytax for HTML markup. In previous roles, I've known how to do the basics like bold and headers. This is the first time I have ever created an unumbered list! Small wins :) </li>
   
  </ul> 
   
