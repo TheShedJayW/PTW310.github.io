@@ -11,7 +11,7 @@
 </h4>
 
 <ul> 
-  <li> Yes, using the W3school's HTML tutorial was helpful for several reasons. 1.) It helped me understand what is the appropiate sytax for HTML markup. In previous roles, I've known how to do the basics like bold and headers. This is the first time I have ever created an unumbered list! Small wins :) </li>
+  <li> Yes, using the W3school's HTML tutorial was helpful for several reasons. 1.) It helped me understand what is the appropiate sytax for HTML markup. In previous roles, I've known how to do the basics like bold and headers. This is the first time I have ever created an unumbered list! Small wins :) 2.) I never fully understood what the purpose or value was of making different headers (why not just bold or change the font size?) and I learned that search engines use to index and structure pages. </li>
   
  </ul> 
   
