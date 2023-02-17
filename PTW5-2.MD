@@ -6,13 +6,14 @@
 <body>
 
   
-<h1 style="color:powderblue;"> PTW 5.2 Homework</h1>
+<h1 style=color:powderblue> PTW 5.2 Homework</h1>
 
 <h4>If you created your own Read Me or HTML page on GitHub, was GitHub's Markdown Cheat Sheet or W3schools' HTML tutorial a useful aid? Describe your experience using the guide to help you create your page(s).
 </h4>
 
 <ul> 
-  <li> Yes, using the W3school's HTML tutorial was helpful for several reasons. 1.) It helped me understand what is the appropiate sytax for HTML markup. In previous roles, I've known how to do the basics like bold and headers. This is the first time I have ever created an unumbered list! Small wins :) 2.) I never fully understood what the purpose or value was of making different headers (why not just bold or change the font size?) and I learned that search engines use to index and structure pages. 3.) The _try it yourself_ makes it easy to test the code and have real world experience.  </li>
+  <li> Yes, using the W3school's HTML tutorial was helpful for several reasons. 1.) It helped me understand what is the appropiate sytax for HTML markup. In previous roles, I've known how to do the basics like bold and headers. This is the first time I have ever created an unumbered list! Small wins :) 2.) I never fully understood what the purpose or value was of making different headers (why not just bold or change the font size?) and I learned that search engines use to index and structure pages. 3.) The 'try it yourself' makes it easy to test the code and have real world experience.  </li>
+  <li> 
   
  </ul> 
   
